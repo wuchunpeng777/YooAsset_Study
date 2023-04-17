@@ -1,0 +1,605 @@
+{
+    "FileVersion": "1.4.6",
+    "EnableAddressable": true,
+    "OutputNameStyle": 1,
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2023-04-17-1005",
+    "AssetList": [
+        {
+            "Address": "engines_enemy",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Effect/Engines/engines_enemy.prefab",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": [
+                16
+            ]
+        },
+        {
+            "Address": "engines_player",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Effect/Engines/engines_player.prefab",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": [
+                16
+            ]
+        },
+        {
+            "Address": "explosion_asteroid",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Effect/Explosions/explosion_asteroid.prefab",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": [
+                3
+            ]
+        },
+        {
+            "Address": "explosion_enemy",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Effect/Explosions/explosion_enemy.prefab",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": [
+                3
+            ]
+        },
+        {
+            "Address": "explosion_player",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Effect/Explosions/explosion_player.prefab",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": [
+                3
+            ]
+        },
+        {
+            "Address": "asteroid01",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Entity/asteroid01.prefab",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "asteroid02",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Entity/asteroid02.prefab",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "asteroid03",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Entity/asteroid03.prefab",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "enemy_bullet",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Entity/enemy_bullet.prefab",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "enemy_ship",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Entity/enemy_ship.prefab",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": [
+                3,
+                16
+            ]
+        },
+        {
+            "Address": "player_bullet",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Entity/player_bullet.prefab",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "player_ship",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Entity/player_ship.prefab",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": [
+                3,
+                16
+            ]
+        },
+        {
+            "Address": "music_background",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Audio/music_background.wav",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": []
+        },
+        {
+            "Address": "sound_explosion_asteroid",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Audio/sound_explosion_asteroid.wav",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": []
+        },
+        {
+            "Address": "sound_explosion_enemy",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Audio/sound_explosion_enemy.wav",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": []
+        },
+        {
+            "Address": "sound_explosion_player",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Audio/sound_explosion_player.wav",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": []
+        },
+        {
+            "Address": "sound_weapon_enemy",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Audio/sound_weapon_enemy.wav",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": []
+        },
+        {
+            "Address": "sound_weapon_player",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Audio/sound_weapon_player.wav",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": []
+        },
+        {
+            "Address": "MyShaderVariants",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameArt/ShaderVariants/MyShaderVariants.shadervariants",
+            "AssetTags": [],
+            "BundleID": 4,
+            "DependIDs": []
+        },
+        {
+            "Address": "scene_battle",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Scene/scene_battle.unity",
+            "AssetTags": [],
+            "BundleID": 5,
+            "DependIDs": [
+                17,
+                3
+            ]
+        },
+        {
+            "Address": "scene_home",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Scene/scene_home.unity",
+            "AssetTags": [],
+            "BundleID": 6,
+            "DependIDs": [
+                17
+            ]
+        },
+        {
+            "Address": "Space",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UIImage/Space.jpg",
+            "AssetTags": [],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIAbout",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UIPanel/UIAbout.prefab",
+            "AssetTags": [],
+            "BundleID": 8,
+            "DependIDs": [
+                13,
+                18
+            ]
+        },
+        {
+            "Address": "UIBattle",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UIPanel/UIBattle.prefab",
+            "AssetTags": [],
+            "BundleID": 9,
+            "DependIDs": [
+                13,
+                18
+            ]
+        },
+        {
+            "Address": "UICanvas",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UIPanel/UICanvas.prefab",
+            "AssetTags": [],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "UIHome",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UIPanel/UIHome.prefab",
+            "AssetTags": [],
+            "BundleID": 11,
+            "DependIDs": [
+                18,
+                13
+            ]
+        },
+        {
+            "Address": "UILoading",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UIPanel/UILoading.prefab",
+            "AssetTags": [],
+            "BundleID": 12,
+            "DependIDs": [
+                18,
+                7
+            ]
+        },
+        {
+            "Address": "arrow1_left",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/arrows/arrow1_left.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "arrow1_left2",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/arrows/arrow1_left2.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "arrow1_right",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/arrows/arrow1_right.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "arrow_left",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/arrows/arrow_left.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "arrow_right",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/arrows/arrow_right.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "back_arrow",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/arrows/back_arrow.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "long_arrow_left",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/arrows/long_arrow_left.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "long_arrow_right",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/arrows/long_arrow_right.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "plus",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/arrows/plus.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "bar_blue",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/bars/bar_blue.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "bar_blue1",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/bars/bar_blue1.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "progress_bar",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/bars/progress_bar.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "progress_bar_background",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/bars/progress_bar_background.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "bullets",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/buttons/bullets.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "button1",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/buttons/button1.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "button_active",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/buttons/button_active.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "button_pushed",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/buttons/button_pushed.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "pause",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/buttons/pause.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "rocket",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/buttons/rocket.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "window_transparent",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/window/window_transparent.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "window_transparent1",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/UISprite/common/window/window_transparent1.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "about 1",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Config/about 1.txt",
+            "AssetTags": [],
+            "BundleID": 14,
+            "DependIDs": []
+        },
+        {
+            "Address": "about",
+            "AssetPath": "Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Config/about.txt",
+            "AssetTags": [],
+            "BundleID": 15,
+            "DependIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_effect_engines.bundle",
+            "FileHash": "cb1b425791b1f47a3ca20e4c92cdcd27",
+            "FileCRC": "47887874",
+            "FileSize": 28902,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_effect_explosions.bundle",
+            "FileHash": "df9b729d9c977dd1fda9dedde38f0cf0",
+            "FileCRC": "e255ae94",
+            "FileSize": 89761,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_entity.bundle",
+            "FileHash": "199a284fdec9cd967beb796cd0cf033a",
+            "FileCRC": "abebca76",
+            "FileSize": 1731269,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_audio.bundle",
+            "FileHash": "aa93e75a3e6f018e94e998fcf0579976",
+            "FileCRC": "1b380a77",
+            "FileSize": 1034874,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                1,
+                2,
+                5
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "FileHash": "3e9e6df7510011fe9f14fad76ef8a1a6",
+            "FileCRC": "b8a4906d",
+            "FileSize": 63253,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_scene_scene_battle.bundle",
+            "FileHash": "042d1807af5795eec7357117f709952c",
+            "FileCRC": "3fee7a3b",
+            "FileSize": 60593,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_scene_scene_home.bundle",
+            "FileHash": "823e0669a45ea68a3684763788aca6b1",
+            "FileCRC": "75eaa18e",
+            "FileSize": 118847,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_uiimage.bundle",
+            "FileHash": "89aa878f4e86803acb943b0c94ec93f0",
+            "FileCRC": "c9d2fe3e",
+            "FileSize": 1111968,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                12
+            ]
+        },
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_uipanel_uiabout.bundle",
+            "FileHash": "cc743848992780ece1ff9ef7ce3a2067",
+            "FileCRC": "3925bffc",
+            "FileSize": 10029,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_uipanel_uibattle.bundle",
+            "FileHash": "c95ea16c180c3b972e550a663597a3bc",
+            "FileCRC": "54015ff7",
+            "FileSize": 19595,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_uipanel_uicanvas.bundle",
+            "FileHash": "af1f2c2cb64c6fb00b5f9e5c70258ffe",
+            "FileCRC": "c00a0fec",
+            "FileSize": 4379,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_uipanel_uihome.bundle",
+            "FileHash": "65d1e8f8efb8833870a1121930f28eea",
+            "FileCRC": "d5f33ab5",
+            "FileSize": 6755,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_uipanel_uiloading.bundle",
+            "FileHash": "924de1333864107c0ec32ffc1f3b3611",
+            "FileCRC": "db399510",
+            "FileSize": 4993,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_uisprite_common.bundle",
+            "FileHash": "3ed4516d63e4225f8ac36fef1fb4e03e",
+            "FileCRC": "5f438446",
+            "FileSize": 471143,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                8,
+                9,
+                11
+            ]
+        },
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_config_about 1_txt.rawfile",
+            "FileHash": "eb2f7d96ae1fbe84fe10759782b20155",
+            "FileCRC": "a5298d19",
+            "FileSize": 31,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_samples_yooasset_1_4_10_space shooter_gameres_config_about_txt.rawfile",
+            "FileHash": "2fc5861da46a53c9389a356f6112c9eb",
+            "FileCRC": "81a475ee",
+            "FileSize": 30,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "share_assets_samples_yooasset_1_4_10_space shooter_gameart_effect.bundle",
+            "FileHash": "277ac74112a31910b3228608519aeb88",
+            "FileCRC": "2a2b82c2",
+            "FileSize": 29097,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                0,
+                2
+            ]
+        },
+        {
+            "BundleName": "share_assets_samples_yooasset_1_4_10_space shooter_gameart_scene.bundle",
+            "FileHash": "dcdbf4ac604fbbba0d324903578b0982",
+            "FileCRC": "25935908",
+            "FileSize": 1098116,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                5,
+                6
+            ]
+        },
+        {
+            "BundleName": "share_assets_samples_yooasset_1_4_10_space shooter_gameart_uifont.bundle",
+            "FileHash": "03173dee02e25f8219d916e84f770eeb",
+            "FileCRC": "bc8375cd",
+            "FileSize": 18962,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                8,
+                9,
+                11,
+                12
+            ]
+        }
+    ]
+}

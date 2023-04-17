@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 2324164383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c891563a576cf50f5ad6407bb25057b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5dbb0e6a8c1ccd97e1a3c5d70e075983
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 814f6a7e3ec8a40aaa3a2057e2695924, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Scene/scene_battle.unity
+Dependencies:
+- F:/YooAsset_Study/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/assets_samples_yooasset_1_4_10_space
+  shooter_gameres_audio.bundle
+- F:/YooAsset_Study/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/share_assets_samples_yooasset_1_4_10_space
+  shooter_gameart_scene.bundle

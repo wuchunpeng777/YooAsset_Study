@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 978050290
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42859094002c3d60f4fd9f80eb582b31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 661b9e997c931501d0e4861c1d933db7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Samples/YooAsset/1.4.10/Space Shooter/GameArt/Scene/tile_nebula_green_dff.tif
+- Assets/Samples/YooAsset/1.4.10/Space Shooter/GameArt/Scene/tile_nebula_green_dff.mat
+Dependencies: []

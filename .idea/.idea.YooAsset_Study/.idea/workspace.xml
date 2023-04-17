@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf1b405f-f192-4d57-b489-ad2dc6c3b4f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/SpriteTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/SpriteTest.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.YooAsset_Study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.YooAsset_Study/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/YooAsset/1.4.10/Space Shooter/GameArt/UIAtlas/common.spriteatlas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/YooAsset/1.4.10/Space Shooter/GameArt/UIAtlas/common.spriteatlas.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bundles/StandaloneWindows64/DefaultPackage/Simulate/PackageManifest_DefaultPackage_Simulate.bytes" beforeDir="false" afterPath="$PROJECT_DIR$/Bundles/StandaloneWindows64/DefaultPackage/Simulate/PackageManifest_DefaultPackage_Simulate.bytes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bundles/StandaloneWindows64/DefaultPackage/Simulate/PackageManifest_DefaultPackage_Simulate.hash" beforeDir="false" afterPath="$PROJECT_DIR$/Bundles/StandaloneWindows64/DefaultPackage/Simulate/PackageManifest_DefaultPackage_Simulate.hash" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bundles/StandaloneWindows64/DefaultPackage/Simulate/PackageManifest_DefaultPackage_Simulate.json" beforeDir="false" afterPath="$PROJECT_DIR$/Bundles/StandaloneWindows64/DefaultPackage/Simulate/PackageManifest_DefaultPackage_Simulate.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/New Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/New Scene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +19,9 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1ee3d51b77aa47989af5e35dd6ef22fc24e00/75/234d0dbc/IPlayModeServices.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1ee3d51b77aa47989af5e35dd6ef22fc24e00/98/17ddf640/EPlayMode.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/519de5e26cb44e0db845d95ac6ec5d8125a00/3b/65ff8391/IPackRule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/70229d9c56924d7794599e8f1526153f860600/3a/73a4b947/EditorSceneManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/70229d9c56924d7794599e8f1526153f860600/d2/92d8097f/AssetDatabase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f43b35577c884afc998cb65a5b53ce866400/dc/3ad9e934/AssetBundle.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3ea01e77be99618395f448b16bd7cc2bd4248bd9e5d8474964b2d97f39c5d74/System.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d44b17e136d09081da1e8fd0e8c83fde60e11818b9f2442d7ed8cb733fae895e/System.Collections.Generic.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Samples/YooAsset/1.4.10/Space Shooter/GameScript/Runtime/BattleLogic/BattleRoom.cs" root0="FORCE_HIGHLIGHTING" />
@@ -39,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Editor/AssetBundleBuilder/BuildAssetInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Editor/AssetBundleBuilder/BuildMapContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Editor/AssetBundleBuilder/BuildReport/ReportSummary.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Editor/AssetBundleBuilder/BuildTasks/TaskCopyBuildinFiles.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Editor/AssetBundleBuilder/BuildTasks/TaskCreateManifest.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Editor/AssetBundleBuilder/BuildTasks/TaskCreateReport.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Editor/AssetBundleBuilder/BuildTasks/TaskGetBuildMap.cs" root0="SKIP_HIGHLIGHTING" />
@@ -52,6 +44,8 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Editor/AssetBundleCollector/DefaultPackRule.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Editor/AssetBundleCollector/ECollectorType.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Editor/EditorTools.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Editor/ShaderVariantCollector/ShaderVariantCollectionHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Editor/ShaderVariantCollector/ShaderVariantCollector.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Runtime/AssetSystem/AssetSystem.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Runtime/AssetSystem/Handles/AssetOperationHandle.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Runtime/AssetSystem/Handles/OperationHandleBase.cs" root0="SKIP_HIGHLIGHTING" />
@@ -61,6 +55,7 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Runtime/AssetSystem/Loader/DependAssetBundleGrouper.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Runtime/AssetSystem/Operations/InstantiateOperation.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Runtime/AssetSystem/Provider/BundledAssetProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Runtime/AssetSystem/Provider/BundledSubAssetsProvider.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Runtime/AssetSystem/Provider/DatabaseAssetProvider.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Runtime/AssetSystem/Provider/ProviderBase.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Runtime/CacheSystem/CacheSystem.cs" root0="SKIP_HIGHLIGHTING" />
@@ -153,10 +148,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="540">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="13192">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="540" />
+      <option name="pid" value="13192" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -182,7 +177,7 @@
       <workItem from="1681368824970" duration="363000" />
       <workItem from="1681369624822" duration="142000" />
       <workItem from="1681369777907" duration="3259000" />
-      <workItem from="1681443704896" duration="9354000" />
+      <workItem from="1681443704896" duration="17959000" />
     </task>
     <servers />
   </component>
@@ -198,30 +193,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/SpriteTest.cs</url>
-          <line>60</line>
-          <properties documentPath="F:\YooAsset_Study\Assets\SpriteTest.cs" initialLine="60" containingFunctionPresentation="Method 'OnInitSuccess'">
+          <url>file://$PROJECT_DIR$/Library/PackageCache/com.tuyoogame.yooasset@1.4.10/Editor/ShaderVariantCollector/ShaderVariantCollector.cs</url>
+          <line>96</line>
+          <properties documentPath="F:\YooAsset_Study\Library\PackageCache\com.tuyoogame.yooasset@1.4.10\Editor\ShaderVariantCollector\ShaderVariantCollector.cs" initialLine="96" containingFunctionPresentation="Method 'EditorUpdate'">
             <startOffsets>
-              <option value="1799" />
+              <option value="2514" />
             </startOffsets>
             <endOffsets>
-              <option value="1824" />
+              <option value="2542" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/SpriteTest.cs</url>
-          <line>47</line>
-          <properties documentPath="F:\YooAsset_Study\Assets\SpriteTest.cs" initialLine="47" containingFunctionPresentation="Method 'Do'">
-            <startOffsets>
-              <option value="1454" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1470" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="16" />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

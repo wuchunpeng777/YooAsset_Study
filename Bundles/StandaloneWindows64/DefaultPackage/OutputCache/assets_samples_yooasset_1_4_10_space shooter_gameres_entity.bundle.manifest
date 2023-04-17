@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 3011673683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47ef0b3c7c0ce6580aa04b85e3a223e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 923f9e0c2b8894546f62103730bae3df
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a613426c4968b3149b8bf9bf88fe41c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a9d4ddd3c4e60245b6bc4f9f1435291, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ffef5a382eef32d46b1d6175c85f644e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d3933af4e188ec44683e3c52784eadb0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: RoomBoundary
+Assets:
+- Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Entity/asteroid03.prefab
+- Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Entity/enemy_bullet.prefab
+- Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Entity/player_ship.prefab
+- Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Entity/enemy_ship.prefab
+- Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Entity/asteroid02.prefab
+- Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Entity/asteroid01.prefab
+- Assets/Samples/YooAsset/1.4.10/Space Shooter/GameRes/Entity/player_bullet.prefab
+Dependencies:
+- F:/YooAsset_Study/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/assets_samples_yooasset_1_4_10_space
+  shooter_gameres_audio.bundle
+- F:/YooAsset_Study/Bundles/StandaloneWindows64/DefaultPackage/OutputCache/share_assets_samples_yooasset_1_4_10_space
+  shooter_gameart_effect.bundle
